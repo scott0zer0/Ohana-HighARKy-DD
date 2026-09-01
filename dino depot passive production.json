@@ -6,7 +6,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -133,7 +133,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -157,7 +157,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -181,7 +181,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -253,7 +253,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -277,7 +277,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
