@@ -49,7 +49,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60,
+                    "intervalSeconds": 60.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -67,7 +67,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 1800,
+                    "intervalSeconds": 1800.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -91,7 +91,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60,
+                    "intervalSeconds": 60.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -109,7 +109,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 1800,
+                    "intervalSeconds": 1800.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -217,7 +217,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -301,7 +301,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900,
+                    "intervalSeconds": 900.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -344,7 +344,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 900,
+                    "intervalSeconds": 900.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -387,7 +387,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 300,
+                    "intervalSeconds": 300.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -411,7 +411,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 3600,
+                    "intervalSeconds": 3600.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -429,7 +429,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 60,
+                    "intervalSeconds": 60.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -472,7 +472,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60,
+                    "intervalSeconds": 60.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -508,7 +508,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 120,
+                    "intervalSeconds": 120.0,
                     "itemSelectMode": 1,
                     "items": [
                         {
@@ -544,7 +544,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 120,
+                    "intervalSeconds": 120.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
